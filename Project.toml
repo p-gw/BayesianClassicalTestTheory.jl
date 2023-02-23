@@ -1,0 +1,13 @@
+name = "BayesianClassicalTestTheory"
+uuid = "4de3c388-ace3-455d-952c-c0911add36a6"
+authors = ["Philipp Gewessler"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
