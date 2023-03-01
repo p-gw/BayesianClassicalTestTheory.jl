@@ -6,6 +6,7 @@ using Makie
 using Reexport
 using ReverseDiff
 using Turing
+using PsychometricTests
 
 @reexport using Turing: NUTS
 @reexport import StatsAPI: fit
